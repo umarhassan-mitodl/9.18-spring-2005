@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides bibliographic citations for the course readings,
   organized by session and topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

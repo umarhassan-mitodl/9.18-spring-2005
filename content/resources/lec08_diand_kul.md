@@ -6,6 +6,8 @@ description: This presentation answers the questions like What are the cell traj
 file: /courses/9-18-developmental-neurobiology-spring-2005/b5f882fc864b53061ad32bb794996e96_lec08_diand_kul.pdf
 file_size: 396136
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
