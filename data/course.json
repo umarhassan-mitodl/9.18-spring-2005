@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Developmental Biology"
+    ]
+  ],
+  "legacy_uid": "e561b618-1f10-38aa-9647-aa2b5ba03fd9",
+  "instructors": {
+    "content": [
+      "335fc995-6d6e-1c24-6a25-5715fa17f765"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5c701810-37ea-4bfc-cbff-b5ec7381c084",
+    "website": "9-18-developmental-neurobiology-spring-2005"
+  },
+  "course_title": "Developmental Neurobiology",
+  "course_description": "This course considers molecular control of neural specification, formation of neuronal connections, construction of neural systems, and the contributions of experience to shaping brain structure and function. Topics include: neural induction and pattern formation, cell lineage and fate determination, neuronal migration, axon guidance, synapse formation and stabilization, activity-dependent development and critical periods, development of behavior.\n",
+  "department_numbers": [
+    "9",
+    "7"
+  ],
+  "extra_course_numbers": "9.181J,7.69J",
+  "primary_course_number": "9.18",
+  "course_image_thumbnail": {
+    "content": "7f71d4f9-9a3c-21a6-74c3-4451b1acb893",
+    "website": "9-18-developmental-neurobiology-spring-2005"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments with Examples"
+  ],
+  "site_uid": "ea32a7c7-16d0-4ade-acde-317984828e42",
+  "site_short_id": "9.18-spring-2005",
+  "site_url_path": "courses/9-18-developmental-neurobiology-spring-2005",
+  "title": "Course Metadata"
+}
