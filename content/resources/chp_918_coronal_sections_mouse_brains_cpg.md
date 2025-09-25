@@ -5,6 +5,8 @@ description: Coronal sections of brain depicting cortical plasticity gene expres
 file: /courses/9-18-developmental-neurobiology-spring-2005/1c3d82694fbd8a716c61d87bc2b967dc_chp_918_Coronal_sections_mouse_brains_CPG.jpg
 file_size: 75967
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
